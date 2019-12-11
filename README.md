@@ -40,7 +40,6 @@ If you want to extend this work, here are a few places to start:
 
 * You can perform more data visualization.
 * Using more data from The World Bank you can find out how Sub-Saharan Africa compares to the rest of world in terms of electricity coverage and research on areas it should improve to attain vision 2030 under sustainable development goals.
-* Add in a way to make predictions on future data.
 * A lot of insights can be drawn from above notebook which can create a platform for research. For example:
 
     * In the data visualization we see all the variables have an upward trend, though from 2012 upto around 2015 the electricity coverage    seems to be relatively flat. It will be interesting to find out why years between 2012 and 2015 sluggish in electricity coverage.
