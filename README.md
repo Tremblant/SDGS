@@ -1,8 +1,8 @@
 SDGs
 -----------------------
 
-A brief illustratoion of exploratory data analysis(EDA) using data obtained from the World Bank website. This data shows percentage of electricity coverage in the Sub-Saharan Africa and can be obtained [here](https://databank.worldbank.org/source/sustainable-development-goals-(sdgs)). 
-Follow above link you will select Sub-Saharan Africa under `country`, under `series` check: Access to electricity(% of population), Access to electricity, rural(% of rural population) and Access to electricity, urban(% of urban population), and the under `time` check between 2012 to 2018 inclusive. Then you can download its csv format.
+A brief illustratoion of exploratory data analysis(EDA) using data obtained from the World Bank website. This data shows the percentage of electricity coverage in the Sub-Saharan Africa and can be obtained [here](https://databank.worldbank.org/source/sustainable-development-goals-(sdgs)). 
+Follow the above link, select Sub-Saharan Africa under `country`, under `series` check: Access to electricity(% of population), Access to electricity, rural(% of rural population) and Access to electricity, urban(% of urban population), and then under `time` check between 2012 to 2018 inclusive. Then you can download its csv format.
 
 Installation
 ----------------------
@@ -40,8 +40,8 @@ If you want to extend this work, here are a few places to start:
 
 * You can perform more data visualization.
 * Using more data from The World Bank you can find out how Sub-Saharan Africa compares to the rest of world in terms of electricity coverage and research on areas it should improve to attain vision 2030 under sustainable development goals.
-* A lot of insights can be drawn from above notebook which can create a platform for research. For example:
+* A lot of insights can be drawn from above notebook which can help create a platform for research. For example:
 
-    * In the data visualization we see all the variables have an upward trend, though from 2012 upto around 2015 the electricity coverage    seems to be relatively flat. It will be interesting to find out why years between 2012 and 2015 sluggish in electricity coverage.
+    * In the data visualization we see all the variables have an upward trend, though from 2012 upto around 2015 the electricity coverage    seems to be relatively flat. It will be interesting to find out why years between 2012 and 2015 have sluggish electricity coverage.
     
     * Comparing urban and rural electricity coverage, urban has a consistent upward trend while for rural it had a slight increase between 2012 and 2013, it then had a downward trend between 2013 and 2015 before shooting up again. This is also an interesting area of research, trying to find out why electricity coverage for rural behaves so and factors behind it.
